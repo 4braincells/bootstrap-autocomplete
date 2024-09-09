@@ -132,3 +132,4 @@ exports.default = help;
 exports.monitor = monitor;
 exports.release = release;
 exports.test = test;
+exports.clean = cleanDist;
